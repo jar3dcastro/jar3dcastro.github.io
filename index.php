@@ -6,6 +6,6 @@
 	<title>test</title>
 </head>
 <body>
-	<?= 'hola mundo' ?>
+	<iframe src="http://www.porcuantomevoyalfinal.com" frameborder="0" style="width:100vw;height:100vh;"></iframe>
 </body>
 </html>
