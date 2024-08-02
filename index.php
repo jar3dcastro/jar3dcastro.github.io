@@ -6,6 +6,6 @@
 	<title>test</title>
 </head>
 <body>
-	hola de prueba
+	<?= 'hola mundo' ?>
 </body>
 </html>
